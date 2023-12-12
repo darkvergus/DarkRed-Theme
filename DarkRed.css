@@ -1,14 +1,14 @@
 @import url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/custom-font.css");
 @import url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/settings-icons.css");
-@import url("https://nyri4.github.io/Discolored/main.css"); 
+@import url("https://nyri4.github.io/Discolored/main.css");
 @import url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/hljs.css");
 
 :root {
     --backgroundColor01: #1e2731;
-	--backgroundColor02: #12171d;
-	--mainColor: #D23200;
-	--gradientColor01: #FF5D60;
-	--gradientColor02: #FF5D60;
+    --backgroundColor02: #12171d;
+    --mainColor: #D23200;
+    --gradientColor01: #FF5D60;
+    --gradientColor02: #FF5D60;
     --backgroundCode: #1e2731;
     --backgroundName: rgba(0, 0, 0, 0.2);
     --rs-small-spacing: 2px;
@@ -27,9 +27,9 @@
     --rs-invisible-color: #747f8d;
     --rs-phone-visible: block;
     --rs-phone-color: var(--rs-online-color);
-	
-	--themeName: "DarkRed";
-	--themeVersion: "1.0.1";
+
+    --themeName: "DarkRed";
+    --themeVersion: "1.0.1";
 }
 
 #app-mount .applicationStore_fc7d76,
@@ -46,9 +46,9 @@
 #app-mount .header_b5ab54,
 #app-mount .inviteToolbar_e74dc0,
 #app-mount .keyboardShortcutsModal__74c71,
-#app-mount .layer__2efaa ,
+#app-mount .layer__2efaa,
 #app-mount .members__9f47b,
-#app-mount .members__9f47b>div,
+#app-mount .members__9f47b > div,
 #app-mount .modalTitle_cf2de1,
 #app-mount .nowPlayingColumn_f5023f,
 #app-mount .panels__58331,
@@ -306,12 +306,12 @@
     line-height: 20px
 }
 
-.checkbox-1ycfTw .checkboxInner-1aRh1d .checkboxElement-uwAa9F:checked+span {
+.checkbox-1ycfTw .checkboxInner-1aRh1d .checkboxElement-uwAa9F:checked + span {
     background-color: var(--mainColor);
     border-color: var(--mainColor) !important
 }
 
-.controls-section .checkbox-inner .checkbox:checked+span::after {
+.controls-section .checkbox-inner .checkbox:checked + span::after {
     left: 5px;
     top: 1px
 }
@@ -490,7 +490,7 @@
 }
 
 #app-mount .presets_c3a603 > .appIconSelectionContainer_aa83b2:first-child img,
-#app-mount .tutorialContainer__890ea .childWrapper__01b9c>svg {
+#app-mount .tutorialContainer__890ea .childWrapper__01b9c > svg {
     display: none !important
 }
 
@@ -520,7 +520,7 @@
 #app-mount .presets_c3a603 > .appIconSelectionContainer_aa83b2:first-child > .appIconSelection__3c38d {
     top: 12px;
     left: 12px;
-    border-radius: 0%;
+    border-radius: 0;
 }
 
 #app-mount .folder__17546 {
@@ -615,7 +615,7 @@
 }
 
 #app-mount .members__9f47b,
-#app-mount .members__9f47b>div {
+#app-mount .members__9f47b > div {
     background-color: var(--backgroundColor02) !important
 }
 
@@ -888,7 +888,7 @@
 }
 
 #app-mount .root_a28985 {
-    background: var(--backgroundColor02) ;
+    background: var(--backgroundColor02);
     box-shadow: none !important
 }
 
@@ -1434,7 +1434,7 @@
     box-shadow: inset 0 0 0 100px rgba(255, 255, 255, .05)
 }
 
-#app-mount .bd-switch input:checked+.bd-switch-body {
+#app-mount .bd-switch input:checked + .bd-switch-body {
     --switch-color: base.$accent;
     background-color: var(--mainColor) !important
 }
@@ -1774,7 +1774,7 @@
     border-radius: 0
 }
 
-#app-mount .userInfoSection-2u2hir+.userInfoSection-2u2hir {
+#app-mount .userInfoSection-2u2hir + .userInfoSection-2u2hir {
     border: none !important
 }
 
@@ -1821,7 +1821,7 @@
     background-color: rgba(0, 0, 0, .5)
 }
 
-#app-mount .activity-1gTu-L>* {
+#app-mount .activity-1gTu-L > * {
     position: relative;
     z-index: 10
 }
@@ -1868,13 +1868,13 @@
     color: #fff !important
 }
 
-#app-mount .activity-fViXj7>svg {
+#app-mount .activity-fViXj7 > svg {
     top: 16px;
     right: 16px;
     position: absolute
 }
 
-#app-mount .activity-fViXj7>svg path {
+#app-mount .activity-fViXj7 > svg path {
     fill: white
 }
 
@@ -2124,7 +2124,8 @@
 .section-3FmfOT {
     padding: 12px 13px 0 12px;
 }
-.lastSection-3_1yKt{
+
+.lastSection-3_1yKt {
     padding-bottom: 22px !important;
 }
 
@@ -2220,7 +2221,7 @@
 }
 
 .overlayBackground-1KgwVi, .input_d266e7 {
-    background-color: rgba(1,1,1,0.5);
+    background-color: rgba(1, 1, 1, 0.5);
     border: 1px solid transparent;
 }
 
@@ -2233,7 +2234,7 @@
 }
 
 .profileBadges__7a7cb {
-    background-color: rgba(1,1,1,0.5);
+    background-color: rgba(1, 1, 1, 0.5);
 }
 
 .userTagUsernameBase-3Nfr5j {
@@ -2432,28 +2433,33 @@
 .prompt__1b100 {
     background-color: var(--backgroundColor01);
 }
+
 .optionButtonWrapper__4072c:hover {
     background-color: var(--backgroundColor02);
 }
+
 .optionButtonWrapper__4072c {
     border-color: var(--backgroundColor02) !important;
 }
+
 .optionButtonWrapper__4072c.selected__90dd8 {
     background-color: var(--backgroundColor02);
 }
-.card-8UsK4b{
-    background-color: var(--backgroundColor01);border-color: var(--gradientColor01);
+
+.card-8UsK4b {
+    background-color: var(--backgroundColor01);
+    border-color: var(--gradientColor01);
 }
 
-.card-8UsK4b:hover{
+.card-8UsK4b:hover {
     background-color: var(--backgroundColor02);
 }
 
-.header-1sd0RU{
+.header-1sd0RU {
     background-color: var(--backgroundColor02);
 }
 
-.contentContainer-BWAau5{
+.contentContainer-BWAau5 {
     background-color: var(--backgroundColor02);
 }
 
@@ -2541,21 +2547,23 @@
     background-color: var(--backgroundColor01);
 }
 
-.descriptionBox_cca0c3{
-    background-color: var(--backgroundColor01);
-}
-.analyticsCard_a976ba{
+.descriptionBox_cca0c3 {
     background-color: var(--backgroundColor01);
 }
 
-.developerPortalCtaWrapper__21172{
+.analyticsCard_a976ba {
     background-color: var(--backgroundColor01);
 }
 
-.welcomeChannel__0122f{
+.developerPortalCtaWrapper__21172 {
     background-color: var(--backgroundColor01);
 }
-.theme-dark .directoryModal-YJsOMv{
+
+.welcomeChannel__0122f {
+    background-color: var(--backgroundColor01);
+}
+
+.theme-dark .directoryModal-YJsOMv {
     background-color: var(--backgroundColor02);
 }
 
@@ -2563,15 +2571,15 @@
     background-color: var(--backgroundColor01);
 }
 
-.textContainer__7712a{
+.textContainer__7712a {
     background-color: var(--backgroundColor01);
 }
 
-.activity-E0U09Y:before{
+.activity-E0U09Y:before {
     border-radius: 8px;
 }
 
-.theme-dark .message__04d9f{
+.theme-dark .message__04d9f {
     background-color: var(--backgroundColor02);
 }
 
@@ -2579,12 +2587,15 @@
 .guild__74638 {
     border: 1px solid var(--backgroundColor01);
 }
+
 .guildHeader__30707 {
     background-color: var(--backgroundColor02);
 }
+
 .guildSubscriptionSlots__5823d {
     background-color: var(--backgroundColor02);
 }
+
 .guildSubscriptionSlot_b76fc6 {
     border-bottom: 1px solid var(--backgroundColor01);
 }
@@ -2627,7 +2638,7 @@
     border-radius: 0;
 }
 
-.container__2c498{
+.container__2c498 {
     background-color: var(--backgroundColor02);
 }
 
@@ -2645,157 +2656,160 @@
     border-right: 2px solid var(--mainColor);
 }
 
-.reactionSelected__249a7{
+.reactionSelected__249a7 {
     background-color: var(--backgroundColor02);
 }
 
 .overlayBackground-1KgwVi, .input_d266e7 {
-    background-color: rgba(1,1,1,0.5);
+    background-color: rgba(1, 1, 1, 0.5);
     border: 1px solid transparent;
 }
 
-.matchingPostsRow__510be{
+.matchingPostsRow__510be {
     background-color: var(--backgroundColor01);
 }
 
-.testimonialHeroContainer__4a355{
+.testimonialHeroContainer__4a355 {
     background-color: var(--backgroundColor01);
 }
 
-.upsellPreview_e0cb61{
+.upsellPreview_e0cb61 {
     background-color: var(--backgroundColor01);
 }
 
-.previewListItem__4f725.selected__2d410{
+.previewListItem__4f725.selected__2d410 {
     background-color: var(--backgroundColor02);
-    border: 2px solid  var(--mainColor);
+    border: 2px solid var(--mainColor);
 }
 
-.previewListItem__4f725{
+.previewListItem__4f725 {
     background-color: var(--backgroundColor02);
 }
 
-.reaction_b90ab0{
+.reaction_b90ab0 {
     background-color: var(--backgroundColor01);
 }
 
-.footer__03347{
-    background-color: var(--backgroundColor01) ;
+.footer__03347 {
+    background-color: var(--backgroundColor01);
 }
 
-.body__4e929.hasSplash_b168aa{
+.body__4e929.hasSplash_b168aa {
     background-color: var(--backgroundColor01);
-}  
+}
 
-.description_e02c45{
+.description_e02c45 {
     color: #fff !important;
 }
 
-.memberText__5c915{
+.memberText__5c915 {
     color: #fff !important;
 }
 
-.icon_bdb038{
-    color: var(--gradientColor02);
-}
-.nav__2aafa{
-    background-color:var(--backgroundColor01) ;
-}
-
-.contentWrapper_eab878{
-    background-color:var(--backgroundColor01) ;
-}
-
-.navButtonActive_b003de{
-    background-color:var(--backgroundColor02) ;
-}
-
-.controlIcon__25700{
+.icon_bdb038 {
     color: var(--gradientColor02);
 }
 
-.colorDefault__0b482.focused__27621{
+.nav__2aafa {
+    background-color: var(--backgroundColor01);
+}
+
+.contentWrapper_eab878 {
+    background-color: var(--backgroundColor01);
+}
+
+.navButtonActive_b003de {
+    background-color: var(--backgroundColor02);
+}
+
+.controlIcon__25700 {
+    color: var(--gradientColor02);
+}
+
+.colorDefault__0b482.focused__27621 {
     background-color: var(--gradientColor02);
 }
 
-.colorBrand__471df{
+.colorBrand__471df {
     color: var(--gradientColor02);
 }
 
-.colorDefault__0b482 .checkbox__45366, .colorDefault__0b482 .radioSelection__5ed39{
+.colorDefault__0b482 .checkbox__45366, .colorDefault__0b482 .radioSelection__5ed39 {
     color: var(--gradientColor02);
 }
 
-.sidebar_ded4b5{
+.sidebar_ded4b5 {
     background-color: var(--backgroundColor02);
 }
 
-.active_f1266e{
+.active_f1266e {
     color: var(--gradientColor02);
 }
 
-.theme-dark .active_f1266e:hover{
-    color: var(--gradientColor02) ;
-}
-
-.lookFilled__19298.colorBrand_b2253e:hover{
-    background-color: var(--gradientColor02) ;
-}
-
-.addReactButton__59750, .buttonInner__2771e{
+.theme-dark .active_f1266e:hover {
     color: var(--gradientColor02);
 }
 
-.controlIcon__11f8e{
-    color: #fff ;
+.lookFilled__19298.colorBrand_b2253e:hover {
+    background-color: var(--gradientColor02);
 }
 
-.durationTimeDisplay_acef46, .durationTimeSeparator__8b5d8{
-    color:#fff ;
+.addReactButton__59750, .buttonInner__2771e {
+    color: var(--gradientColor02);
 }
 
-.controlIcon__25700{
-    color: #fff ;opacity: 1 ;
+.controlIcon__11f8e {
+    color: #fff;
 }
 
-.controlIcon__11f8e{
+.durationTimeDisplay_acef46, .durationTimeSeparator__8b5d8 {
+    color: #fff;
+}
+
+.controlIcon__25700 {
+    color: #fff;
     opacity: 1;
 }
 
-.controlIcon__11f8e:hover{
+.controlIcon__11f8e {
+    opacity: 1;
+}
+
+.controlIcon__11f8e:hover {
     opacity: .6;
 }
 
-#app-mount .mediaBarGrabber_c64ff9, #app-mount .mediaBarProgress__29db2, #app-mount .mediaBarProgress__29db2:after, #app-mount .mediaBarProgress__29db2:before{
+#app-mount .mediaBarGrabber_c64ff9, #app-mount .mediaBarProgress__29db2, #app-mount .mediaBarProgress__29db2:after, #app-mount .mediaBarProgress__29db2:before {
     background-color: #fff !important;
 }
 
-.icon_b0b9a4, .reactionBtn__46474{
+.icon_b0b9a4, .reactionBtn__46474 {
     color: var(--gradientColor02);
 }
 
-.reactionBtn__46474:hover .icon_b0b9a4{
+.reactionBtn__46474:hover .icon_b0b9a4 {
     color: var(--gradientColor02);
 }
 
-.buttonColor__01bf8{
+.buttonColor__01bf8 {
     background-color: var(--mainColor);
     background-image: linear-gradient(-45deg, var(--gradientColor01), var(--gradientColor02));
     opacity: .75;
     content: "";
 }
 
-.wrapper .controls{
+.wrapper .controls {
     background: transparent !important;
 }
 
-.wrapper .controls .caret{
+.wrapper .controls .caret {
     background-color: var(--gradientColor02) !important;
 }
 
-.upload_c98ecb{
+.upload_c98ecb {
     background-color: var(--backgroundColor02);
 }
+
 .theme-dark .container_df3aa0, .theme-dark .page__0b66e {
     background-color: var(--backgroundColor02);
     border-color: var(--mainColor);
@@ -2847,59 +2861,59 @@
     background-color: var(--mainColor);
 }
 
-.container__99b06:hover{
+.container__99b06:hover {
     background-color: var(--backgroundColor02);
 }
 
-.container-3arpDl{
+.container-3arpDl {
     background-color: var(--backgroundColor01);
 }
 
-.descriptionContainer-2ylKGk{
+.descriptionContainer-2ylKGk {
     background-color: var(--backgroundColor01);
 }
 
-.linkContainer-2xEQjX{
+.linkContainer-2xEQjX {
     background-color: var(--backgroundColor01);
 }
 
-.gradient-1SYq38{
+.gradient-1SYq38 {
     background: var(--backgroundColor01);
 }
 
 .members__9f47b, .membersListNotices_a4cb13 {
-    width: 100%!important;
+    width: 100% !important;
 }
 
-.chat__52833{
+.chat__52833 {
     background: transparent;
 }
 
-.chatContent__5dca8{
+.chatContent__5dca8 {
     background: transparent;
 }
 
-.container_b2ce9c, .membersWrap__90226{
+.container_b2ce9c, .membersWrap__90226 {
     background: transparent;
 }
 
-.members__9f47b{
+.members__9f47b {
     background: transparent;
 }
 
-.channelTextArea__2e60f{
+.channelTextArea__2e60f {
     background: transparent;
 }
 
-.theme-dark .container_ca50b9{
+.theme-dark .container_ca50b9 {
     background: transparent;
 }
 
-.theme-dark .form__13a2c:before{
+.theme-dark .form__13a2c:before {
     display: none;
 }
 
-.container_d667ff{
+.container_d667ff {
     background: transparent;
 }
 
@@ -2907,90 +2921,91 @@
     background: transparent;
 }
 
-.base__512ed{
+.base__512ed {
     background: transparent;
 }
 
-.theme-dark .container__99b06.isOpen__8593d{
+.theme-dark .container__99b06.isOpen__8593d {
     background-color: var(--backgroundColor02);
 }
 
-.chatContent__5dca8{
+.chatContent__5dca8 {
     background: var(--backgroundColor02);
 }
 
-.base__512ed{
+.base__512ed {
     background-color: var(--backgroundColor02);
 }
 
-.resizeHandle_f1a098{
+.resizeHandle_f1a098 {
     background-color: var(--backgroundColor01);
 }
 
-.auto_a48086::-webkit-scrollbar-track{
+.auto_a48086::-webkit-scrollbar-track {
     background-color: var(--backgroundColor02);
 }
 
-.auto_a48086::-webkit-scrollbar-thumb{
+.auto_a48086::-webkit-scrollbar-thumb {
     background-color: var(--backgroundColor01);
 }
 
-.userProfileInnerThemedNonPremium__3d0a6 .overlayBackground__86b78{
+.userProfileInnerThemedNonPremium__3d0a6 .overlayBackground__86b78 {
     background-color: var(--backgroundColor01);
 }
 
-.theme-dark .tooltipPrimary_e5c00d, .theme-light .tooltipPrimary_e5c00d{
+.theme-dark .tooltipPrimary_e5c00d, .theme-light .tooltipPrimary_e5c00d {
     background-color: var(--backgroundColor01);
 }
 
-.topPill__0cdf1 .themed_b957e8.selected__5711d.item__48dda, .side_b4b3f6 .themed_b957e8.selected__5711d.item__48dda{
-    background-color: var(--backgroundColor01) ;
+.topPill__0cdf1 .themed_b957e8.selected__5711d.item__48dda, .side_b4b3f6 .themed_b957e8.selected__5711d.item__48dda {
+    background-color: var(--backgroundColor01);
 }
 
-.topPill__0cdf1 .themed_b957e8.item__48dda:hover:not(.disabled__85bca), .side_b4b3f6 .themed_b957e8.item__48dda:hover:not(.disabled__85bca){
-    background-color: var(--backgroundColor01) ;
+.topPill__0cdf1 .themed_b957e8.item__48dda:hover:not(.disabled__85bca), .side_b4b3f6 .themed_b957e8.item__48dda:hover:not(.disabled__85bca) {
+    background-color: var(--backgroundColor01);
 }
 
-.container_de798d{
+.container_de798d {
     color: var(--mainColor) !important;
 }
 
-.container_b181b6{
+.container_b181b6 {
     background: var(--backgroundColor02);
 }
 
-.carouselModal_c0d5b7{
-    background:transparent!important;
+.carouselModal_c0d5b7 {
+    background: transparent !important;
 }
 
-.callContainer_cbde45{
-    background: var(--backgrounColor02);
-}
-.base__512ed{
+.callContainer_cbde45 {
     background: var(--backgroundColor02);
 }
 
-.box_dd6d91{
+.base__512ed {
+    background: var(--backgroundColor02);
+}
+
+.box_dd6d91 {
     background: var(--backgroundColor01);
 }
 
-.wrapper__3d460{
+.wrapper__3d460 {
     background: transparent;
 }
 
-.reaction_fef95b{
+.reaction_fef95b {
     background: #00000020;
 }
 
-.reaction_fef95b:hover{
+.reaction_fef95b:hover {
     background-color: #00000050;
 }
 
-.reaction_fef95b.reactionMe__98f57{
+.reaction_fef95b.reactionMe__98f57 {
     background-color: #00000050;
 }
 
-.base__512ed{
+.base__512ed {
     background-color: var(--backgroundColor02);
 }
 
@@ -3003,14 +3018,14 @@
     color: #ccc;
 }
 
-.icon__62403{
+.icon__62403 {
     color: var(--gradientColor02);
 }
 
-.base__512ed{
+.base__512ed {
     background-color: transparent;
 }
 
-#app-mount .unread__48cf4:after{
+#app-mount .unread__48cf4:after {
     left: -7px;
 }
