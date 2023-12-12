@@ -32,6 +32,10 @@
     --themeVersion: "1.0.1";
 }
 
+* {
+    border-radius: 0 !important;
+}
+
 #app-mount .applicationStore_fc7d76,
 #app-mount .bg__12180,
 #app-mount .chat__52833,
@@ -3028,4 +3032,8 @@
 
 #app-mount .unread__48cf4:after {
     left: -7px;
+}
+
+.item_f9d377 {
+    background-color: var(--mainColor);
 }
