@@ -23,41 +23,41 @@ div[aria-label="GUILD_SETTINGS"] .side-1lrxIh .item-2GWPIy {padding-left: 10px;}
 .premiumTab-39eQzY.item-2GWPIy.selected-1sf9UK.themed-qqoYp3:hover {background-color: #5865f2;}
 
 /* User Settings */
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(2)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/MyAccount.svg");}
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(3)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/Profiles.svg");}
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(4)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/Privacy&Safety.svg");}
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(5)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/AuthorisedApps.svg");}
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(6)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/Devices.svg");}
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(7)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/Connections.svg");}
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(8)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/FriendRequests.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(2)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/MyAccount.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(3)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/Profiles.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(4)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/Privacy&Safety.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(5)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/AuthorisedApps.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(6)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/Devices.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(7)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/Connections.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(8)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/FriendRequests.svg");}
 /* Payment Settings */
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(11)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/Nitro.svg");}
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(12)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/ServerBoost.svg");}
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(13)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/Subscriptions.svg");}
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(14)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/GiftInventory.svg");}
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(15)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/Billing.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(11)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/Nitro.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(12)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/ServerBoost.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(13)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/Subscriptions.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(14)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/GiftInventory.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(15)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/Billing.svg");}
 /* App Settings */
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(18)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/Appearance.svg");}
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(19)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/Accessibility.svg");}
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(20)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/Voice&Video.svg");}
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(21)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/Text&Images.svg");}
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(22)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/Notifications.svg");}
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(23)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/Keybinds.svg");}
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(24)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/Language.svg");}
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(25)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/WindowsSettings.svg");}
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(26)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/StreamerMode.svg");}
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(27)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/Advanced.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(18)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/Appearance.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(19)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/Accessibility.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(20)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/Voice&Video.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(21)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/Text&Images.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(22)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/Notifications.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(23)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/Keybinds.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(24)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/Language.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(25)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/WindowsSettings.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(26)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/StreamerMode.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(27)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/Advanced.svg");}
 /* Activity Settings */
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(30)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/ActivityPrivacy.svg");}
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(31)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/RegisteredGames.svg");}
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(32)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/GameOverlay.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(30)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/ActivityPrivacy.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(31)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/RegisteredGames.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(32)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/GameOverlay.svg");}
 /* better discord settings */
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(35)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/BDSettings.svg");}
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(36)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/BDUpdates.svg");}
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(37)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/BDCustomCSS.svg");}
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(38)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/BDPlugins.svg");}
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(39)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/BDThemes.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(35)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/BDSettings.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(36)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/BDUpdates.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(37)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/BDCustomCSS.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(38)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/BDPlugins.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(39)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/BDThemes.svg");}
 /* Misc */
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(41)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/WhatsNew.svg");}
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(42)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/HypeSquad.svg");}
-.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(44)::before {background-image: url("https://github.com/darkvergus/DarkRed-Theme/core/Settings-Icons/LogOut.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(41)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/WhatsNew.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(42)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/HypeSquad.svg");}
+.side-1lrxIh[aria-label="User Settings"] .item-2GWPIy:nth-child(44)::before {background-image: url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/Settings-Icons/LogOut.svg");}
