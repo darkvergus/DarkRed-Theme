@@ -5,9 +5,9 @@
 * @author Darkvergus
 * @source https://github.com/darkvergus/DarkRed-Theme
 */
-@import url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/DarkRed.css");
-@import url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/badges.css");
-@import url("https://raw.githubusercontent.com/darkvergus/DarkRed-Theme/master/core/custom-font.css");
+@import url("https://darkvergus.github.io/DarkRed-Theme/DarkRed.css");
+@import url("https://darkvergus.github.io/DarkRed-Theme/core/badges.css");
+@import url("https://darkvergus.github.io/DarkRed-Theme/core/custom-font.css");
 @import url("https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css"); /* Radial Status */
 
 :root {
