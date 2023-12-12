@@ -1,0 +1,40 @@
+/**
+* @name DarkRed-Theme
+* @version 1.0.1
+* @description For when default discord just isn't dark enough with red tint.
+* @author Darkvergus
+* @source https://github.com/darkvergus/DarkRed-Theme
+*/
+@import url("https://github.com/darkvergus/DarkRed-Theme/DarkRed.css");
+@import url("https://github.com/darkvergus/DarkRed-Theme/core/custom-font.css");
+@import url("https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css"); /* Radial Status */
+:root {
+	--backgroundColor01: #1e2731;
+	--backgroundColor02: #12171d;
+	--mainColor: #D23200;
+	--gradientColor01: #FF5D60;
+	--gradientColor02: #FF5D60;
+
+	/* Better Hljs */
+	--backgroundCode: #1e2731;
+	--backgroundName: rgba(0, 0, 0, .2);
+
+	/* Radial Status */
+	--rs-small-spacing: 2px;
+	--rs-large-spacing: 3px;
+	--rs-width: 2px;
+	--rs-avatar-shape: 0%;
+	--rs-online-color: #43b581;
+	--rs-idle-color: #faa61a;
+	--rs-dnd-color: #f04747;
+	--rs-offline-color: #636b75;
+	--rs-streaming-color: #643da7;
+	--rs-invisible-color: #747f8d;
+	--rs-phone-visible: block;
+	--rs-phone-color: var(--rs-online-color);
+
+	--customFont: 'gg sans', sans-serif;
+	
+	--themeName: "DarkRed";
+	--themeVersion: "1.0.1";
+}
