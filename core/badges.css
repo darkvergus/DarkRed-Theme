@@ -1,0 +1,26 @@
+.avatar__08316 + h3 > .headerText_f47574 > .username_d30d99::after {
+    display: inline-block;
+    height: 14px;
+    width: 14px;
+    line-height: 14px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url("");
+    position: relative;
+    top: 2px;
+    margin-left: 5px;
+}
+.avatar__08316 + h3 > .headerText_f47574 > .username_d30d99:hover::after {
+    width: auto;
+    border-radius: 4px;
+    padding: 2px 5px;
+    background-image: none!important;
+    background-color: #0d0d0d;
+    color: #fff;
+    font-size: 12px;
+    top: -1px;
+    font-weight: normal;
+    animation-timing-function: linear;
+    transition: color .2s ease, background-color .2s ease;
+}
