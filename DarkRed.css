@@ -3033,3 +3033,7 @@
 .item_f9d377 {
     background-color: var(--mainColor);
 }
+
+.checked__6bdb0 {
+    background-color: var(--mainColor) !important;
+}
