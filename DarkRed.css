@@ -3037,3 +3037,7 @@
 .checked__6bdb0 {
     background-color: var(--mainColor) !important;
 }
+
+.iconBadge_fdf33a .isCurrentUserConnected_d9734f {
+    background-color: var(--mainColor) !important;
+}
