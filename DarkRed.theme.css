@@ -40,3 +40,7 @@
 	--themeName: "DarkRed";
 	--themeVersion: "1.0.1";
 }
+
+* {
+	border-radius: 0 !important;
+}

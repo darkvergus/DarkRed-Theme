@@ -3038,6 +3038,14 @@
     background-color: var(--mainColor) !important;
 }
 
-.iconBadge_fdf33a .isCurrentUserConnected_d9734f {
+.iconBadge_fdf33a.isCurrentUserConnected_d9734f {
     background-color: var(--mainColor) !important;
+}
+
+.selectorButtonSelected_fbe8fc {
+    background-color: var(--mainColor) !important;
+}
+
+.selectorButton_c6ae93:not(.selectorButtonPremiumRequired_ce72d6):hover {
+    background-color: var(--mainColor);
 }
