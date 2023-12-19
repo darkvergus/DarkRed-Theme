@@ -1950,7 +1950,8 @@
 
 #app-mount .role__631a3 {
     background-color: transparent !important;
-    border: 2px solid currentColor;
+    border: 2px solid;
+    border-color: var(--gradientColor01);
     border-radius: 0
 }
 
