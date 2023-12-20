@@ -3054,3 +3054,15 @@
 .selectorButton_c6ae93:not(.selectorButtonPremiumRequired_ce72d6):hover, .button__66e8c.buttonColor_a6eb73.buttonActive__407a7:hover, .lookFilled__19298.colorGreen__5f181:hover {
     background-color: var(--mainColor) !important;
 }
+
+.lookFilled__19298.colorBrand_b2253e:disabled, .lookFilled__19298.colorBrand_b2253e[aria-disabled=true] {
+    background-color: var(--gradientColor01) !important; 
+}
+
+.sourceThumbnail__21c87.selected__26467 {
+    box-shadow: inset 0 0 0 2px var(--gradientColor01) !important;
+}
+
+.sourceThumbnail__21c87.selected__26467:hover {
+    box-shadow: inset 0 0 0 2px var(--mainColor) !important;
+}
