@@ -3047,8 +3047,12 @@
     background-color: var(--mainColor) !important;
 }
 
+.selectorButton_c6ae93:not(.selectorButtonPremiumRequired_ce72d6) {
+    background-color: var(--gradientColor02) !important;
+}
+
 .selectorButton_c6ae93:not(.selectorButtonPremiumRequired_ce72d6):hover {
-    background-color: var(--gradientColor02);
+    background-color: var(--mainColor) !important;
 }
 
 .lookFilled__19298.colorGreen__5f181 {
