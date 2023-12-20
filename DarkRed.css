@@ -3047,14 +3047,6 @@
     background-color: var(--mainColor) !important;
 }
 
-.selectorButton_c6ae93:not(.selectorButtonPremiumRequired_ce72d6), .button__66e8c.buttonColor_a6eb73.buttonActive__407a7, .lookFilled__19298.colorGreen__5f181 {
-    background-color: var(--backgroundColor01) !important;
-}
-
-.selectorButton_c6ae93:not(.selectorButtonPremiumRequired_ce72d6):hover, .button__66e8c.buttonColor_a6eb73.buttonActive__407a7:hover, .lookFilled__19298.colorGreen__5f181:hover {
-    background-color: var(--mainColor) !important;
-}
-
 .lookFilled__19298.colorBrand_b2253e:disabled, .lookFilled__19298.colorBrand_b2253e[aria-disabled=true] {
     background-color: var(--gradientColor01) !important; 
 }
