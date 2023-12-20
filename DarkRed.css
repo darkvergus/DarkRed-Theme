@@ -3052,9 +3052,9 @@
 }
 
 .lookFilled__19298.colorGreen__5f181 {
-    background-color: var(--gradientColor02);
+    background-color: var(--gradientColor02) !important;
 }
 
 .lookFilled__19298.colorGreen__5f181:hover {
-    background-color: var(--mainColor);
+    background-color: var(--mainColor) !important;
 }
