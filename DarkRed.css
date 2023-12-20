@@ -29,7 +29,7 @@
     --rs-phone-color: var(--rs-online-color);
 
     --themeName: "DarkRed";
-    --themeVersion: "1.0.1";
+    --themeVersion: "1.0.2";
 }
 
 #app-mount .applicationStore_fc7d76,
@@ -3061,4 +3061,8 @@
 
 .lookFilled__19298.colorGreen__5f181:hover {
     background-color: var(--mainColor) !important;
+}
+
+.wrapperCommon_d71dee {
+    background-color: var(--backgroundCode) !important;
 }
