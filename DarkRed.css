@@ -3070,3 +3070,11 @@
 .lookFilled__19298.colorGreen__5f181:hover {
     background-color: var(--mainColor) !important;
 }
+
+.button__66e8c .buttonColor_a6eb73.buttonActive__407a7, .button__66e8c.buttonColor_a6eb73.buttonActive__407a7 {
+    background-color: var(--gradientColor01);
+}
+
+.button__66e8c .buttonColor_a6eb73.buttonActive__407a7, .button__66e8c.buttonColor_a6eb73.buttonActive__407a7:hover {
+    background-color: var(--mainColor);
+}
