@@ -3072,9 +3072,13 @@
 }
 
 .button__66e8c .buttonColor_a6eb73.buttonActive__407a7, .button__66e8c.buttonColor_a6eb73.buttonActive__407a7 {
-    background-color: var(--gradientColor01);
+    background-color: var(--gradientColor01) !important;
 }
 
 .button__66e8c .buttonColor_a6eb73.buttonActive__407a7, .button__66e8c.buttonColor_a6eb73.buttonActive__407a7:hover {
-    background-color: var(--mainColor);
+    background-color: var(--mainColor) !important;
+}
+
+.wrapperCommon_d71dee {
+    background-color: var(--backgroundColor01) !important;
 }
