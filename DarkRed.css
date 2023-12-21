@@ -340,7 +340,8 @@
 #app-mount .replyBar_b64d74,
 #app-mount .searchBar_e4ea2a .searchBarComponent__22760,
 #app-mount .searchBar-zdmu7v,
-#app-mount .threadSuggestionBar_b633f7 {
+#app-mount .threadSuggestionBar_b633f7,
+#app-mount .scrollableContainer__33e06 {
     background: var(--backgroundColor01) !important
 }
 
@@ -371,8 +372,7 @@
     border: none !important
 }
 
-#app-mount .selected-3H3-RC, 
-#app-mount .scrollableContainer__33e06 {
+#app-mount .selected-3H3-RC {
     background-color: var(--backgroundColor02) !important
 }
 
