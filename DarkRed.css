@@ -3098,3 +3098,7 @@
 .tabBar__73938 .addFriend__80542.addFriend__80542.addFriend__80542:hover {
     background-color: var(--mainColor) !important;
 }
+
+.lookOutlined__46d54.colorGreen__5f181 {
+    border-color: var(--gradientColor01) !important;
+}
