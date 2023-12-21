@@ -338,7 +338,6 @@
 #app-mount .circleIconButton__78ef6,
 #app-mount .expandedFolderBackground__1bec6:not(.collapsed__0a270),
 #app-mount .replyBar_b64d74,
-#app-mount .scrollableContainer__33e06,
 #app-mount .searchBar_e4ea2a .searchBarComponent__22760,
 #app-mount .searchBar-zdmu7v,
 #app-mount .threadSuggestionBar_b633f7 {
@@ -372,7 +371,8 @@
     border: none !important
 }
 
-#app-mount .selected-3H3-RC {
+#app-mount .selected-3H3-RC, 
+#app-mount .scrollableContainer__33e06 {
     background-color: var(--backgroundColor02) !important
 }
 
