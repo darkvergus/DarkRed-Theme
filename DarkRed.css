@@ -3116,6 +3116,6 @@
 }
 
 .theme-dark .categoryFadeBlurple_e73c11:hover, .theme-light .categoryFadeBlurple_e73c11:hover {
-    background-color: var(--mainColor) !important;
+    background-color: var(--gradientColor01) !important;
     opacity: 80% !important;
 }
