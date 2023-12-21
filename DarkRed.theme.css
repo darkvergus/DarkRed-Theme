@@ -36,9 +36,6 @@
 	--rs-phone-color: var(--rs-online-color);
 
 	--customFont: 'gg sans', sans-serif;
-	
-	--themeName: "DarkRed";
-	--themeVersion: "1.0.1";
 }
 
 * {
