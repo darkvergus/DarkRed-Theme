@@ -3082,3 +3082,7 @@
 .wrapperCommon_d71dee {
     background-color: var(--backgroundColor01) !important;
 }
+
+.tile__46960:hover {
+    background-color: var(--gradientColor01) !important;
+}
