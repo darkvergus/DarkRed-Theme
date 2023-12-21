@@ -114,10 +114,6 @@
 #app-mount .lookInverted-2mDUMi.colorBrand-21Le_q,
 #app-mount .lookInverted-2mDUMi.colorBrand-21Le_q.disabled {
     background-color: var(--mainColor) !important;
-    -webkit-transition: box-shadow .2s ease;
-    -ms-transition: box-shadow .2s ease;
-    -o-transition: box-shadow .2s ease;
-    -moz-transition: box-shadow .2s ease;
     transition: box-shadow .2s ease;
     color: #fff !important
 }
@@ -129,10 +125,6 @@
 #app-mount .lookFilled-yCfaCM.colorPrimary-1arORx:hover,
 #app-mount .lookInverted-2mDUMi.colorBrand-21Le_q:hover {
     background-color: var(--mainColor);
-    -webkit-box-shadow: inset 0 0 0 10000px rgba(255, 255, 255, .2);
-    -ms-box-shadow: inset 0 0 0 10000px rgba(255, 255, 255, .2);
-    -moz-box-shadow: inset 0 0 0 10000px rgba(255, 255, 255, .2);
-    -o-box-shadow: inset 0 0 0 10000px rgba(255, 255, 255, .2);
     box-shadow: inset 0 0 0 10000px rgba(255, 255, 255, .2)
 }
 
@@ -195,10 +187,6 @@
     width: 100%;
     background-color: var(--gradientColor01);
     background-image: linear-gradient(-45deg, var(--gradientColor01), var(--gradientColor02)) !important;
-    -webkit-transition: transform .2s ease;
-    -ms-transition: transform .2s ease;
-    -o-transition: transform .2s ease;
-    -moz-transition: transform .2s ease;
     transition: transform .2s ease;
     -webkit-transform: translateX(-100%);
     -ms-transform: translateX(-100%);
@@ -237,10 +225,6 @@
     width: 8px;
     border-radius: 4px;
     left: 4px;
-    -webkit-transition: box-shadow .2s ease;
-    -ms-transition: box-shadow .2s ease;
-    -o-transition: box-shadow .2s ease;
-    -moz-transition: box-shadow .2s ease;
     transition: box-shadow .2s ease;
     background-color: #ffffff00;
     z-index: 10;
@@ -653,10 +637,6 @@
     width: 100%;
     background-color: var(--gradientColor01);
     background-image: linear-gradient(-45deg, var(--gradientColor01), var(--gradientColor02)) !important;
-    -webkit-transition: transform .2s ease;
-    -ms-transition: transform .2s ease;
-    -o-transition: transform .2s ease;
-    -moz-transition: transform .2s ease;
     transition: transform .2s ease;
     -webkit-transform: translateX(100%);
     -ms-transform: translateX(100%);
@@ -696,10 +676,6 @@
 #app-mount .tertiary_bc0225,
 #app-mount .tutorial__7b875 {
     background-color: var(--backgroundColor01) !important;
-    -webkit-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .3);
-    -ms-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .3);
-    -moz-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .3);
-    -o-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .3);
     box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .3)
 }
 
@@ -1891,10 +1867,6 @@
 
 #app-mount .userPopout-2j1gM4 {
     background-color: var(--backgroundColor01) !important;
-    -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, .5);
-    -ms-box-shadow: 0 0 10px 0 rgba(0, 0, 0, .5);
-    -moz-box-shadow: 0 0 10px 0 rgba(0, 0, 0, .5);
-    -o-box-shadow: 0 0 10px 0 rgba(0, 0, 0, .5);
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, .5)
 }
 
@@ -1964,10 +1936,6 @@
 
 #app-mount .container-2O1UgZ {
     background-color: var(--backgroundColor01) !important;
-    -webkit-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .3), 0 0 10px 0 rgba(0, 0, 0, .5);
-    -ms-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .3), 0 0 10px 0 rgba(0, 0, 0, .5);
-    -moz-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .3), 0 0 10px 0 rgba(0, 0, 0, .5);
-    -o-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .3), 0 0 10px 0 rgba(0, 0, 0, .5);
     box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .3), 0 0 10px 0 rgba(0, 0, 0, .5);
     border: none !important
 }
@@ -2016,10 +1984,6 @@
 
 #app-mount .topSectionNormal-2-vo2m {
     background-color: var(--backgroundColor01) !important;
-    -webkit-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .3);
-    -ms-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .3);
-    -moz-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .3);
-    -o-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .3);
     box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .3)
 }
 
@@ -2029,30 +1993,18 @@
 }
 
 #app-mount .topSectionPlaying-1J5E4n .assets__5bee0 {
-    -webkit-box-shadow: 0 7px 10px -4px rgba(0, 0, 0, .3);
-    -ms-box-shadow: 0 7px 10px -4px rgba(0, 0, 0, .3);
-    -moz-box-shadow: 0 7px 10px -4px rgba(0, 0, 0, .3);
-    -o-box-shadow: 0 7px 10px -4px rgba(0, 0, 0, .3);
     box-shadow: 0 7px 10px -4px rgba(0, 0, 0, .3)
 }
 
 #app-mount .topSectionStreaming-1Tpf5X {
     background-color: #593695;
     background-image: linear-gradient(-45deg, #593695, #7651b6) !important;
-    -webkit-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .2);
-    -ms-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .2);
-    -moz-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .2);
-    -o-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .2);
     box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .2)
 }
 
 #app-mount .topSectionSpotify-1lI0-P {
     background-color: #1db954;
     background-image: linear-gradient(-45deg, #1db954, #1db944) !important;
-    -webkit-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .2);
-    -ms-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .2);
-    -moz-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .2);
-    -o-box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .2);
     box-shadow: inset 0 0 0 100000px rgba(0, 0, 0, .2)
 }
 
