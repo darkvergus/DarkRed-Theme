@@ -843,11 +843,11 @@
 #app-mount .friendSelected_f0db37,
 #app-mount .guildSection_ebda04,
 #app-mount .progress__2cc1d,
-#app-mount .tag__69d9d {
+#app-mount .tag__69d9d,
+#app-mount .quickswitcher_a3d29a {
     background-color: var(--backgroundColor01) !important
 }
 
-#app-mount .quickswitcher_a3d29a,
 #app-mount .scroller__52ae7,
 #app-mount .uploadModalIn_c0ca4b .uploadDropModal__73a36 .bgScale_f3a2be {
     background: var(--mainColor)
