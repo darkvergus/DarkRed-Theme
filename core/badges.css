@@ -1,4 +1,4 @@
-.avatar__08316 + h3 > .headerText_f47574 > .username_d30d99::after {
+.avatar__08316 + h3 > .headerText_bd68ec > .username__0b0e7::after {
     display: inline-block;
     height: 14px;
     width: 14px;
@@ -11,7 +11,8 @@
     top: 2px;
     margin-left: 5px;
 }
-.avatar__08316 + h3 > .headerText_f47574 > .username_d30d99:hover::after {
+
+.avatar__08316 + h3 > .headerText_bd68ec > .username__0b0e7:hover::after {
     width: auto;
     border-radius: 4px;
     padding: 2px 5px;
