@@ -128,7 +128,7 @@
     box-shadow: inset 0 0 0 10000px rgba(255, 255, 255, .2)
 }
 
-#app-mount .lookLink-15mFoz.colorLink-1Md3RZ, .iconBadge__19638.isCurrentUserConnected__3bd70 {
+#app-mount .lookLink-15mFoz.colorLink-1Md3RZ {
     color: var(--mainColor);
 }
 
@@ -140,7 +140,7 @@
 
 #app-mount .editor_e77931 .footerButton__56f60:hover,
 #app-mount .themeEditor__8f359 .footerButton__3ca7b:hover,
-#app-mount .closeButton__8177f:hover {
+#app-mount .closeButton__8177f:hover, .iconBadge__19638.isCurrentUserConnected__3bd70 {
     background-color: var(--mainColor) !important
 }
 
