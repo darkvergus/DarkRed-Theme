@@ -128,8 +128,8 @@
     box-shadow: inset 0 0 0 10000px rgba(255, 255, 255, .2)
 }
 
-#app-mount .lookLink-15mFoz.colorLink-1Md3RZ {
-    color: var(--mainColor)
+#app-mount .lookLink-15mFoz.colorLink-1Md3RZ, .iconBadge__19638.isCurrentUserConnected__3bd70 {
+    color: var(--mainColor);
 }
 
 #app-mount .closeButton__8177f,
