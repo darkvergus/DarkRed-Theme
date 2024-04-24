@@ -29,7 +29,7 @@
     --rs-phone-color: var(--rs-online-color);
 
     --themeName: "DarkRed";
-    --themeVersion: "1.0.4";
+    --themeVersion: "1.0.5";
 }
 
 #app-mount .applicationStore__444b9,
@@ -1023,6 +1023,10 @@
 #app-mount .roleRow-3LoHQ6:last-child:after,
 #app-mount .tabBody_a90ea8:before {
     display: none !important
+}
+
+#app-mount .form_d8a4a1:after {
+    background: none;
 }
 
 #app-mount .bannedUser_fa7d5e,
@@ -3164,4 +3168,24 @@ button .button_ae40a4 > .contents__322f4 > svg > path[fill *= "var(--interactive
 
 .emojiLockIconContainer_ed2f80 {
     display: none;
+}
+
+.lottieIcon_c7076c :not(defs *)[fill][fill-opacity] {
+    fill: var(--gradientColor02);
+}
+
+.container__0bd59  {
+    background-color: var(--backgroundColor01);
+}
+
+.scroller_b7f6d8 {
+    background-color:var(--backgroundColor02) ;
+}
+
+.container__6e389, .voters_ddbfbc {
+    background-color:var(--backgroundColor02) ;
+}
+
+.badge_b37eda {
+    background-color: var(--backgroundColor01);
 }

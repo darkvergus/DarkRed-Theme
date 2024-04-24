@@ -1,6 +1,6 @@
 :root {
-  --backgroundCode: #2f3136;
-  --backgroundName: #202225;
+    --backgroundCode: #2f3136;
+    --backgroundName: #202225;
 }
 .markup_a7e664 pre {
     position: relative;
@@ -70,359 +70,359 @@
     z-index: 1;
 }
 .hljs.css::before {
-  content: "CSS";
+    content: "CSS";
 }
 .hljs.js::before {
-  content: "Javascript";
+    content: "Javascript";
 }
 .hljs.php::before {
-  content: "PHP";
+    content: "PHP";
 }
 .hljs.java::before {
-  content: "Java";
+    content: "Java";
 }
 .hljs.csharp::before {
-  content: "C#";
+    content: "C#";
 }
 .hljs.c::before {
-  content: "C";
+    content: "C";
 }
 .hljs.cpp::before {
-  content: "C++";
+    content: "C++";
 }
 .hljs.coffeescript::before {
-  content: "Coffeescript";
+    content: "Coffeescript";
 }
 .hljs.bash::before {
-  content: "Bash";
+    content: "Bash";
 }
 .hljs.bat::before {
-  content: "Batch";
+    content: "Batch";
 }
 .hljs.html::before {
-  content: "HTML";
+    content: "HTML";
 }
 .hljs.apache::before {
-  content: "Apache";
+    content: "Apache";
 }
 .hljs.diff::before {
-  content: "Diff";
+    content: "Diff";
 }
 .hljs.http::before {
-  content: "HTTP";
+    content: "HTTP";
 }
 .hljs.json::before {
-  content: "JSON";
+    content: "JSON";
 }
 .hljs.markdown::before {
-  content: "Markdown";
+    content: "Markdown";
 }
 .hljs.makfile::before {
-  content: "Makefile";
+    content: "Makefile";
 }
 .hljs.nginx::before {
-  content: "Nginx";
+    content: "Nginx";
 }
 .hljs.perl::before {
-  content: "Perl";
+    content: "Perl";
 }
 .hljs.properties::before {
-  content: "Properties";
+    content: "Properties";
 }
 .hljs.ruby::before {
-  content: "Ruby";
+    content: "Ruby";
 }
 .hljs.python::before {
-  content: "Python";
+    content: "Python";
 }
 .hljs.shell::before {
-  content: "Shell";
+    content: "Shell";
 }
 .hljs.sql::before {
-  content: "SQL";
+    content: "SQL";
 }
 .hljs.powershell::before {
-  content: "PowerShell";
+    content: "PowerShell";
 }
 .hljs.xml::before {
-  content: "XML";
+    content: "XML";
 }
 .hljs.objectivec::before {
-  content: "Objective-C";
+    content: "Objective-C";
 }
 .hljs.CSS::before {
-  content: "CSS";
+    content: "CSS";
 }
 .hljs.py::before {
-  content: "PY";
+    content: "PY";
 }
 .hljs.ts::before {
-  content: "TypeScript";
+    content: "TypeScript";
 }
 .hljs.typescript::before {
-  content: "TypeScript";
+    content: "TypeScript";
 }
 .hljs.scss::before {
-  content: "SCSS";
+    content: "SCSS";
 }
 .hljs.sass::before {
-  content: "SASS";
+    content: "SASS";
 }
 .hljs.less::before {
-  content: "Less CSS";
+    content: "Less CSS";
 }
 .hljs.swift::before {
-  content: "Swift";
+    content: "Swift";
 }
 .hljs.autoit::before {
-  content: "AutoIt";
+    content: "AutoIt";
 }
 .hljs.basic::before {
-  content: "BASIC";
+    content: "BASIC";
 }
 .hljs.lisp::before {
-  content: "Lisp";
+    content: "Lisp";
 }
 .hljs.lua::before {
-  content: "Lua";
+    content: "Lua";
 }
 .hljs.m::before {
-  content: "M";
+    content: "M";
 }
 .hljs.javascript::before {
-  content: "Javascript";
+    content: "Javascript";
 }
 .hljs.pascal::before {
-  content: "Pascal";
+    content: "Pascal";
 }
 .hljs.clean::before {
-  content: "Clean";
+    content: "Clean";
 }
 .hljs.erlang::before {
-  content: "Erlang";
+    content: "Erlang";
 }
 .hljs.fsharp::before {
-  content: "F#";
+    content: "F#";
 }
 .hljs.kotlin::before {
-  content: "Kotlin";
+    content: "Kotlin";
 }
 .hljs.rs::before {
-  content: "Rust";
+    content: "Rust";
 }
 .hljs.rust::before {
-  content: "Rust";
+    content: "Rust";
 }
 .hljs.hs::before {
-  content: "Haskell";
+    content: "Haskell";
 }
 .hljs.haskell::before {
-  content: "Haskell";
+    content: "Haskell";
 }
 .hljs.go::before {
-  content: "GO";
+    content: "GO";
 }
 .hljs.asciidoc::before {
-  content: "AsciiDoc";
+    content: "AsciiDoc";
 }
 .hljs.yaml::before {
-  content: "YAML";
+    content: "YAML";
 }
 .hljs.x86asm::before {
-  content: "x86asm";
+    content: "x86asm";
 }
 .hljs.C::before {
-  content: "C";
+    content: "C";
 }
 .hljs.cs::before {
-  content: "C#";
+    content: "C#";
 }
 .hljs.toml::before {
-  content: "TOML";
+    content: "TOML";
 }
 .hljs.scheme::before {
-  content: "Scheme";
+    content: "Scheme";
 }
 .hljs.mips::before {
-  content: "MIPS";
+    content: "MIPS";
 }
 .hljs.MIPS::before {
-  content: "MIPS";
+    content: "MIPS";
 }
 .hljs.vb::before {
-  content: "Visual Basic";
+    content: "Visual Basic";
 }
 .hljs.VB::before {
-  content: "Visual Basic";
+    content: "Visual Basic";
 }
 .hljs.r::before {
-  content: "R";
+    content: "R";
 }
 .hljs.R::before {
-  content: "R";
+    content: "R";
 }
 .hljs.abnf::before {
-  content: "ABNF";
+    content: "ABNF";
 }
 .hljs.accesslog::before {
-  content: "accesslog";
+    content: "accesslog";
 }
 .hljs.arduino::before {
-  content: "Arduino";
+    content: "Arduino";
 }
 .hljs.ino::before {
-  content: "Ino";
+    content: "Ino";
 }
 .hljs.armasm::before {
-  content: "Armasm";
+    content: "Armasm";
 }
 .hljs.arm::before {
-  content: "Arm";
+    content: "Arm";
 }
 .hljs.avrasm::before {
-  content: "Avrasm";
+    content: "Avrasm";
 }
 .hljs.actionscript::before {
-  content: "Actionscript";
+    content: "Actionscript";
 }
 .hljs.as::before {
-  content: "AS";
+    content: "AS";
 }
 .hljs.alan::before {
-  content: "Alan";
+    content: "Alan";
 }
 .hljs.angelscript::before {
-  content: "Angelscript";
+    content: "Angelscript";
 }
 .hljs.asc::before {
-  content: "asc";
+    content: "asc";
 }
 .hljs.apacheconf::before {
-  content: "Apache conf";
+    content: "Apache conf";
 }
 .hljs.applescript::before {
-  content: "Applescript";
+    content: "Applescript";
 }
 .hljs.osascript::before {
-  content: "Osascript";
+    content: "Osascript";
 }
 .hljs.arcade::before {
-  content: "Arcade";
+    content: "Arcade";
 }
 .hljs.adoc::before {
-  content: "Adoc";
+    content: "Adoc";
 }
 .hljs.aspectj::before {
-  content: "Aspectj";
+    content: "Aspectj";
 }
 .hljs.autohotkey::before {
-  content: "Autohotkey";
+    content: "Autohotkey";
 }
 .hljs.autoit::before {
-  content: "Autoit";
+    content: "Autoit";
 }
 .hljs.awk::before {
-  content: "awk";
+    content: "awk";
 }
 .hljs.mawk::before {
-  content: "mawk";
+    content: "mawk";
 }
 .hljs.gawk::before {
-  content: "gawk";
+    content: "gawk";
 }
 .hljs.sh::before {
-  content: "sh";
+    content: "sh";
 }
 .hljs.zsh::before {
-  content: "zsh";
+    content: "zsh";
 }
 .hljs.angelscript::before {
-  content: "Angelscript";
+    content: "Angelscript";
 }
 .hljs.bbcode::before {
-  content: "BBcode";
+    content: "BBcode";
 }
 .hljs.blade::before {
-  content: "Blade";
+    content: "Blade";
 }
 .hljs.bnf::before {
-  content: "BNF";
+    content: "BNF";
 }
 .hljs.h::before {
-  content: "H";
+    content: "H";
 }
 .hljs.hpp::before {
-  content: "Hpp";
+    content: "Hpp";
 }
 .hljs.cc::before {
-  content: "CC";
+    content: "CC";
 }
 .hljs.hh::before {
-  content: "HH";
+    content: "HH";
 }
 .hljs[class*='h++']::before {
-  content: "H++";
+    content: "H++";
 }
 .hljs[class*='1c']::before {
-  content: "1C";
+    content: "1C";
 }
 .hljs[class*='4d']::before {
-  content: "4D";
+    content: "4D";
 }
 .hljs.cxx::before {
-  content: "CXX";
+    content: "CXX";
 }
 .hljs.hxx::before {
-  content: "HXX";
+    content: "HXX";
 }
 .hljs.cal::before {
-  content: "Cal";
+    content: "Cal";
 }
 .hljs.cos::before {
-  content: "Cos";
+    content: "Cos";
 }
 .hljs.cls::before {
-  content: "cls";
+    content: "cls";
 }
 .hljs.cmake::before {
-  content: "cmake";
+    content: "cmake";
 }
 .hljs[class*='cmake.in']::before {
-  content: "cmake.in";
+    content: "cmake.in";
 }
 .hljs.coq::before {
-  content: "coq";
+    content: "coq";
 }
 .hljs.csp::before {
-  content: "CSP";
+    content: "CSP";
 }
 .hljs.csv::before {
-  content: "csv";
+    content: "csv";
 }
 .hljs.capnproto::before {
-  content: "capnproto";
+    content: "capnproto";
 }
 .hljs.capnp::before {
-  content: "capnp";
+    content: "capnp";
 }
 .hljs.chaos::before {
-  content: "chaos";
+    content: "chaos";
 }
 .hljs.kaos::before {
-  content: "kaos";
+    content: "kaos";
 }
 .hljs.chapel::before {
-  content: "chapel";
+    content: "chapel";
 }
 .hljs.chpl::before {
-  content: "chpl";
+    content: "chpl";
 }
 .hljs.cisco::before {
-  content: "cisco";
+    content: "cisco";
 }
 .hljs.clojure::before {
-  content: "clojure";
+    content: "clojure";
 }
 .hljs.clj::before {
-  content: "clj";
+    content: "clj";
 }
