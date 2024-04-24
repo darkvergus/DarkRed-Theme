@@ -9,7 +9,6 @@
     --mainColor: #D23200;
     --gradientColor01: #FF5D60;
     --gradientColor02: #FF5D60;
-    --backgroundCode: #1e2731;
     --backgroundName: rgba(0, 0, 0, 0.2);
     --rs-small-spacing: 2px;
     --rs-medium-spacing: 3px;
@@ -3168,10 +3167,6 @@ button .button_ae40a4 > .contents__322f4 > svg > path[fill *= "var(--interactive
 
 .emojiLockIconContainer_ed2f80 {
     display: none;
-}
-
-.lottieIcon_c7076c :not(defs *)[fill][fill-opacity] {
-    fill: var(--gradientColor02);
 }
 
 .container__0bd59  {
