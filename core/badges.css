@@ -1,4 +1,4 @@
-.avatar__08316 + h3 > .headerText_bd68ec > .username__0b0e7::after {
+.avatar_ec86aa + h3 > .headerText_ec86aa > .username__0b0e7::after {
     display: inline-block;
     height: 14px;
     width: 14px;
@@ -12,11 +12,11 @@
     margin-left: 5px;
 }
 
-.avatar__08316 + h3 > .headerText_bd68ec > .username__0b0e7:hover::after {
+.avatar_ec86aa + h3 > .headerText_ec86aa > .username__0b0e7:hover::after {
     width: auto;
     border-radius: 4px;
     padding: 2px 5px;
-    background-image: none!important;
+    background-image: none !important;
     background-color: #0d0d0d;
     color: #fff;
     font-size: 12px;
