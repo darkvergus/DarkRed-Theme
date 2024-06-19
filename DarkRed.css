@@ -8,7 +8,6 @@
     --backgroundColor02: #12171d;
     --mainColor: #D23200;
     --gradientColor01: #FF5D60;
-    --gradientColor02: #FF5D60;
     --backgroundName: rgba(0, 0, 0, 0.2);
     --rs-small-spacing: 2px;
     --rs-medium-spacing: 3px;
@@ -185,7 +184,7 @@
     height: 2px;
     width: 100%;
     background-color: var(--gradientColor01);
-    background-image: linear-gradient(-45deg, var(--gradientColor01), var(--gradientColor02)) !important;
+    background-image: linear-gradient(-45deg, var(--gradientColor01), var(--gradientColor01)) !important;
     transition: transform .2s ease;
     -webkit-transform: translateX(-100%);
     -ms-transform: translateX(-100%);
@@ -507,7 +506,7 @@
     height: 36px;
     top: 6px;
     left: 6px;
-    background-image: linear-gradient(-45deg, var(--gradientColor01), var(--gradientColor02));
+    background-image: linear-gradient(-45deg, var(--gradientColor01), var(--gradientColor01));
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -653,7 +652,7 @@
     height: 2px;
     width: 100%;
     background-color: var(--gradientColor01);
-    background-image: linear-gradient(-45deg, var(--gradientColor01), var(--gradientColor02)) !important;
+    background-image: linear-gradient(-45deg, var(--gradientColor01), var(--gradientColor01)) !important;
     transition: transform .2s ease;
     -webkit-transform: translateX(100%);
     -ms-transform: translateX(100%);
@@ -742,7 +741,7 @@
 }
 
 #app-mount .wrapper_d4fa29 {
-    background-color: var(--gradientColor02);
+    background-color: var(--gradientColor01);
     color: #fff;
     text-shadow: 0 1px rgba(0, 0, 0, .7)
 }
@@ -1653,7 +1652,7 @@
 
 #app-mount .tier1-1ttHRY.banner-3Kac2g,
 #app-mount .wrapper-3nSjSv {
-    background-image: linear-gradient(8.62deg, var(--gradientColor02), var(--gradientColor01) 75.25%)
+    background-image: linear-gradient(8.62deg, var(--gradientColor01), var(--gradientColor01) 75.25%)
 }
 
 #app-mount .cardWrapper-CyvwQv {
@@ -1824,7 +1823,7 @@
 
 #app-mount .activity-1gTu-L::before {
     background-color: var(--mainColor);
-    background-image: linear-gradient(-45deg, var(--gradientColor01), var(--gradientColor02));
+    background-image: linear-gradient(-45deg, var(--gradientColor01), var(--gradientColor01));
     opacity: .75;
     content: "";
     height: 100%;
@@ -2006,7 +2005,7 @@
 
 #app-mount .topSectionPlaying-1J5E4n {
     background-color: var(--gradientColor01);
-    background-image: linear-gradient(-45deg, var(--gradientColor01), var(--gradientColor02)) !important
+    background-image: linear-gradient(-45deg, var(--gradientColor01), var(--gradientColor01)) !important
 }
 
 #app-mount .topSectionPlaying-1J5E4n .assets_d5089b {
@@ -2226,7 +2225,7 @@
 
 .activity__20c1e:before {
     background-color: var(--mainColor);
-    background-image: linear-gradient(-45deg, var(--gradientColor01), var(--gradientColor02));
+    background-image: linear-gradient(-45deg, var(--gradientColor01), var(--gradientColor01));
     opacity: .75;
     content: "";
     height: 100%;
@@ -2325,7 +2324,7 @@
 }
 
 .barFill_c7a159 {
-    background: var(--gradientColor02)
+    background: var(--gradientColor01)
 }
 
 .lookFilled_f6639d.select_f6639d {
@@ -2688,7 +2687,7 @@
 }
 
 .icon_a14cf7 {
-    color: var(--gradientColor02);
+    color: var(--gradientColor01);
 }
 
 .nav__2aafa {
@@ -2704,20 +2703,20 @@
 }
 
 .controlIcon_ef18ee {
-    color: var(--gradientColor02);
+    color: var(--gradientColor01);
 }
 
 .colorDefault_d90b3d.focused_d90b3d {
-    background-color: var(--gradientColor02);
+    background-color: var(--gradientColor01);
 }
 
 .colorBrand_d90b3d {
-    color: var(--gradientColor02);
+    color: var(--gradientColor01);
 }
 
 .colorDefault_d90b3d .checkbox_d90b3d,
 .colorDefault_d90b3d .radioSelection_d90b3d {
-    color: var(--gradientColor02);
+    color: var(--gradientColor01);
 }
 
 .sidebar_a4d4d9 {
@@ -2725,20 +2724,20 @@
 }
 
 .active_b385c8 {
-    color: var(--gradientColor02);
+    color: var(--gradientColor01);
 }
 
 .theme-dark .active_b385c8:hover {
-    color: var(--gradientColor02);
+    color: var(--gradientColor01);
 }
 
 .lookFilled_dd4f85.colorBrand_dd4f85:hover {
-    background-color: var(--gradientColor02);
+    background-color: var(--gradientColor01);
 }
 
 .addReactButton_b385c8,
 .buttonInner_b385c8 {
-    color: var(--gradientColor02);
+    color: var(--gradientColor01);
 }
 
 .controlIcon_f316dd {
@@ -2773,16 +2772,16 @@
 
 .icon_f61c73,
 .reactionBtn_f61c73 {
-    color: var(--gradientColor02);
+    color: var(--gradientColor01);
 }
 
 .reactionBtn_f61c73:hover .icon_f61c73 {
-    color: var(--gradientColor02);
+    color: var(--gradientColor01);
 }
 
 .buttonColor_e36233 {
     background-color: var(--mainColor);
-    background-image: linear-gradient(-45deg, var(--gradientColor01), var(--gradientColor02));
+    background-image: linear-gradient(-45deg, var(--gradientColor01), var(--gradientColor01));
     opacity: .75;
     content: "";
 }
@@ -2792,7 +2791,7 @@
 }
 
 .wrapper .controls .caret {
-    background-color: var(--gradientColor02) !important;
+    background-color: var(--gradientColor01) !important;
 }
 
 .upload_df1eaf {
@@ -3009,7 +3008,7 @@
 }
 
 .icon_c47562 {
-    color: var(--gradientColor02);
+    color: var(--gradientColor01);
 }
 
 .base_d7ebeb {
@@ -3241,4 +3240,8 @@ button.button_f67531>.contents_dd4f85>svg>path[fill*="var(--interactive-normal)"
 
 .post_d66623 {
     background-color: var(--backgroundColor01);
+}
+
+.iconBadge_c96c45.isCurrentUserConnected_c96c45 {
+    background-color: var(--mainColor);
 }
