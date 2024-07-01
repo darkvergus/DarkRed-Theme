@@ -3242,6 +3242,46 @@ button.button_f67531>.contents_dd4f85>svg>path[fill*="var(--interactive-normal)"
     background-color: var(--backgroundColor01);
 }
 
+.header_b56bbc {
+    background-color: var(--backgroundColor01);
+}
+
+.inner_c18ec9 {
+    background-color: var(--backgroundColor02);
+}
+
+.secondary_e258f5 {
+    background-color: var(--backgroundColor02);
+}
+
+.container_f8a938 {
+    background-color: var(--backgroundColor01);
+}
+
+.credentialList_eaef52 {
+    background-color: var(--backgroundColor01);
+}
+
+.stickerCategoryGenericSelected_a7a485 .stickerCategoryGenericIcon_a7a485 {
+    color: var(--mainColor);
+}
+
+.container_b01337 {
+    background-color: var(--backgroundColor01);
+}
+
+.container_d7c696 {
+    background-color: var(--backgroundColor01);
+}
+
+.container_a2e886 {
+    background-color: var(--backgroundColor01);
+}
+
+.box_f70f48 {
+    background-color: var(--backgroundColor01);
+}
+
 .iconBadge_c96c45.isCurrentUserConnected_c96c45 {
     background-color: var(--mainColor);
 }
