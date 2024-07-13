@@ -2873,11 +2873,6 @@
     background: var(--backgroundColor01);
 }
 
-.members_cbd271,
-.membersListNotices__0bcb6 {
-    width: 100% !important;
-}
-
 .chat_a7d72e {
     background: transparent;
 }
@@ -3262,10 +3257,6 @@ button.button_f67531>.contents_dd4f85>svg>path[fill*="var(--interactive-normal)"
     background-color: var(--backgroundColor01);
 }
 
-.stickerCategoryGenericSelected_a7a485 .stickerCategoryGenericIcon_a7a485 {
-    color: var(--mainColor);
-}
-
 .container_b01337 {
     background-color: var(--backgroundColor01);
 }
@@ -3282,6 +3273,63 @@ button.button_f67531>.contents_dd4f85>svg>path[fill*="var(--interactive-normal)"
     background-color: var(--backgroundColor01);
 }
 
+.wrapper_b75bb9 {
+    background: transparent !important;
+}
+
 .iconBadge_c96c45.isCurrentUserConnected_c96c45 {
     background-color: var(--mainColor);
+}
+
+.categoryItemDefaultCategory_dfa278:hover {
+    background-color: var(--mainColor);
+}
+
+/* Sticker Picker */
+.stickerCategoryGeneric_a7a485 {
+    color: #fff;
+}
+.stickerCategoryGeneric_a7a485:hover {
+    color: #fff;
+    background-color: var(--mainColor);
+}
+.stickerCategoryGenericSelected_a7a485, .stickerCategoryGenericSelected_a7a485:hover {
+    background-color: var(--mainColor);
+    color: #fff !important;
+}
+
+.unicodeShortcut_dfa278, .standardStickerShortcut_a7a485 {
+    color: #fff;
+}
+.unicodeShortcut_dfa278:hover, .standardStickerShortcut_a7a485:hover {
+    background-color: var(--mainColor);
+    color: #fff !important;
+}
+
+.markup_f8f345 code {
+    background-color: var(--backgroundCode)
+}
+
+.hljs, .hljs::after {
+    padding-top: 20px !important;
+}
+
+.markup_f8f345 .codeActions_f8f345 {
+    top: 20px !important;
+}
+
+.hljs::after {
+    height: calc(100% - 20px);
+}
+
+.settingCard_dd864e {
+    background-color: var(--backgroundColor01);
+}
+
+.content_cc6017 {
+    background-color: var(--backgroundColor01);
+    border-radius: 4px 4px 0 0;
+}
+.perks_fcea2f {
+    background-color: rgba(0,0,0,0.3);
 }
