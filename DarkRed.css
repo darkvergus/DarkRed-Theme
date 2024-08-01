@@ -3330,6 +3330,47 @@ button.button_f67531>.contents_dd4f85>svg>path[fill*="var(--interactive-normal)"
     background-color: var(--backgroundColor01);
     border-radius: 4px 4px 0 0;
 }
+
 .perks_fcea2f {
     background-color: rgba(0,0,0,0.3);
+}
+
+.theme-dark .themed_fc4f04,.theme-dark .children_fc4f04:after{
+    background: var(--backgroundColor02);
+}
+
+.clickable_fc4f04 .icon_fc4f04 {
+    color: var(--mainColor);
+}
+
+.clickable_fc4f04:hover .icon_fc4f04 {
+    color: var(--mainColor);
+}
+
+.spriteGreyscale_d91a75 {
+    background-color: var(--mainColor);
+}
+
+.autocomplete_bcc24e {
+    background-color: var(--backgroundColor01);
+}
+
+.wrapperAudio_f72aac {
+    background-color: var(--backgroundColor01);
+}
+
+.textContainer_d8e2d0 {
+    background-color: var(--backgroundColor01);
+}
+
+.hljs {
+    background-color: var(--backgroundColor01);
+}
+
+.footer_d8e2d0 {
+    background-color: var(--backgroundColor01);
+}
+
+.grid_b0068a {
+    background-color: var(--backgroundColor01);
 }
