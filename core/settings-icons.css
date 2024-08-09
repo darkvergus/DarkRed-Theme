@@ -55,7 +55,7 @@ div[aria-label="GUILD_SETTINGS"] .side_a0 .item_a0 {padding-left: 10px;}
 .side_a0[aria-label="User Settings"] .item_a0:nth-child(35)::before {background-image: url("https://darkvergus.github.io/DarkRed-Theme/core/Settings-Icons/GameOverlay.svg");}
 /* better discord settings */
 .side_a0[aria-label="User Settings"] .item_a0:nth-child(38)::before {background-image: url("https://darkvergus.github.io/DarkRed-Theme/core/Settings-Icons/BDSettings.svg");}
-.side_a0[aria-label="User Settings"] .item_a0:nth-child(30)::before {background-image: url("https://darkvergus.github.io/DarkRed-Theme/core/Settings-Icons/BDUpdates.svg");}
+.side_a0[aria-label="User Settings"] .item_a0:nth-child(39)::before {background-image: url("https://darkvergus.github.io/DarkRed-Theme/core/Settings-Icons/BDUpdates.svg");}
 .side_a0[aria-label="User Settings"] .item_a0:nth-child(40)::before {background-image: url("https://darkvergus.github.io/DarkRed-Theme/core/Settings-Icons/BDCustomCSS.svg");}
 .side_a0[aria-label="User Settings"] .item_a0:nth-child(41)::before {background-image: url("https://darkvergus.github.io/DarkRed-Theme/core/Settings-Icons/BDPlugins.svg");}
 .side_a0[aria-label="User Settings"] .item_a0:nth-child(42)::before {background-image: url("https://darkvergus.github.io/DarkRed-Theme/core/Settings-Icons/BDThemes.svg");}
