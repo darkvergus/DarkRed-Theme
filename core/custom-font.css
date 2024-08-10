@@ -3,5 +3,5 @@
     --font-display: var(--customFont), "gg sans";
 }
 ::placeholder, body, button, input, select, textarea {
-    font-family: var(--customFont) !important;
+    font-family: var(--customFont), sans-serif !important;
 }
