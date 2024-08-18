@@ -3390,3 +3390,7 @@ button.button_adca65>.contents_dd4f85>svg>path[fill*="var(--interactive-normal)"
 .wrapper_f7e168 {
     background-color: var(--backgroundColor01);
 }
+
+.unavailableTooltip_f40049 {
+    display: none;
+} 
