@@ -3393,4 +3393,16 @@ button.button_adca65>.contents_dd4f85>svg>path[fill*="var(--interactive-normal)"
 
 .unavailableTooltip_f40049 {
     display: none;
-} 
+}
+
+.button_df39bd {
+    background: none;
+}
+
+.buttonContainer_df39bd, .container_e5da8b, .searchBarContainer_c7c1c7 .container_c18ec9 .inner_c18ec9 {
+    background-color: var(--backgroundColor01);
+}
+
+.scrollableContent_c7c1c7, .searchBarContainer_c7c1c7 {
+    background-color: var(--backgroundColor02);
+}
