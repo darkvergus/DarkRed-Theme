@@ -3406,3 +3406,7 @@ button.button_adca65>.contents_dd4f85>svg>path[fill*="var(--interactive-normal)"
 .scrollableContent_c7c1c7, .searchBarContainer_c7c1c7 {
     background-color: var(--backgroundColor02);
 }
+
+.container_c64476 {
+    background: var(--backgroundColor01);
+}
