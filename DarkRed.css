@@ -3410,3 +3410,7 @@ button.button_adca65>.contents_dd4f85>svg>path[fill*="var(--interactive-normal)"
 .container_c64476 {
     background: var(--backgroundColor01);
 }
+
+.themedBackground_bdf0de {
+    background: none !important;
+}
