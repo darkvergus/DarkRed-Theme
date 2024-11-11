@@ -3417,6 +3417,6 @@ button.button_adca65>.contents_dd4f85>svg>path[fill*="var(--interactive-normal)"
     background-color: var(--backgroundColor01);
 }
 
-.scrollerBase_eed6a8 {
-    
+.scrollerBase_eed6a8, .scroller_e2e187 {
+    scrollbar-width: none !important;
 }
