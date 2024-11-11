@@ -259,7 +259,7 @@
     }
 }
 
-#app-mount .newMessagesBar_cf58b5 {
+#app-mount .newMessagesBar_cf58b5, #app-mount .item_c4cd66 {
     background-color: var(--mainColor)
 }
 
@@ -1186,25 +1186,6 @@
 #app-mount .templatesList-uohY49::-webkit-scrollbar-button,
 #app-mount .templatesList-uohY49::-webkit-scrollbar-corner {
     display: none !important
-}
-
-#app-mount .autocompleteScroller-13i2_Y:hover,
-#app-mount .container_c2739c .scrollerBase-_bVAAt:hover,
-#app-mount .contentWrapper_af5dbb .scroller-2FKFPG:hover,
-#app-mount .infoScroller-1QMpon:hover,
-#app-mount .keybindGroup_ad95dc:hover,
-#app-mount .listScroller-2FcOQF:hover,
-#app-mount .listWrapper_a3bc57 .scroller-2FKFPG:hover,
-#app-mount .messagesPopout_ac90a2:hover,
-#app-mount .regionSelectModalOptions-2TWQOB:hover,
-#app-mount .rolesList-3uZoaa:hover,
-#app-mount .scroller_c43953:hover,
-#app-mount .scroller_f4e139:hover,
-#app-mount .scroller_e2e187:hover,
-#app-mount .scroller:hover,
-#app-mount .scrollerBase-_bVAAt:hover,
-#app-mount .templatesList-uohY49:hover {
-    overflow: overlay !important
 }
 
 #app-mount .autocompleteScroller-13i2_Y:hover::-webkit-scrollbar,
@@ -3434,4 +3415,8 @@ button.button_adca65>.contents_dd4f85>svg>path[fill*="var(--interactive-normal)"
 
 .container_a47d49:hover {
     background-color: var(--backgroundColor01);
+}
+
+.scrollerBase_eed6a8 {
+    
 }
