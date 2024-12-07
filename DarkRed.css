@@ -239,7 +239,7 @@
     background-color: var(--mainColor);
     border-radius: 100%;
     z-index: -2;
-    animation: pulse 2s infinite;
+    animation: var(--unread-animation) 2s infinite;
     will-change: transform
 }
 
@@ -3435,4 +3435,15 @@ button.button_adca65>.contents_dd4f85>svg>path[fill*="var(--interactive-normal)"
 
 .container_a47d49:hover {
     background-color: var(--backgroundColor01);
+}
+
+.footer_d71945 {
+    display: none;
+}
+
+.scrollerContainer_c90ddb {
+    background-color: var(--backgroundColor01);
+}
+.theme-dark .bannedUser_c90ddb {
+    background-color: var(--backgroundColor02)
 }
