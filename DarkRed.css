@@ -3415,6 +3415,10 @@ button.button__67645>.contents__201d5>svg>path[fill*="var(--interactive-normal)"
     padding-top: 1.2rem;
 }
 
-.file__0ccae, .button_e6e74f {
+.file__0ccae {
     background-color: var(--backgroundColor01);
+}
+
+.button_e6e74f {
+    background: var(--backgroundColor01);
 }
