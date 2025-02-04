@@ -523,7 +523,7 @@
 }
 
 #app-mount .folder__48112 {
-    background-color: transparent !important
+    background: transparent !important
 }
 
 #app-mount .expandedFolderBackground__48112 {
@@ -3273,12 +3273,10 @@ button.button__67645>.contents__201d5>svg>path[fill*="var(--interactive-normal)"
     background: transparent !important;
 }
 
-
 .categoryItemDefaultCategory_b9ee0c:hover {
     background-color: var(--mainColor);
 }
 
-/* Sticker Picker */
 .stickerCategoryGeneric__3ad28 {
     color: #fff;
 }
@@ -3291,7 +3289,6 @@ button.button__67645>.contents__201d5>svg>path[fill*="var(--interactive-normal)"
     color: #fff !important;
 }
 
-/* Built in Emojis/stickers */
 .unicodeShortcut_b9ee0c,.standardStickerShortcut__3ad28 {
     color: #fff;
 }
@@ -3386,7 +3383,8 @@ button.button__67645>.contents__201d5>svg>path[fill*="var(--interactive-normal)"
 }
 
 .soundButtonInteractiveRefresh__6d4ed {
-    background: var(--backgroundColor02); opacity: .9;
+    background: var(--backgroundColor02); 
+    opacity: .9;
 }
 
 [class*="themedBackground"] {
@@ -3417,6 +3415,6 @@ button.button__67645>.contents__201d5>svg>path[fill*="var(--interactive-normal)"
     padding-top: 1.2rem;
 }
 
-.file__0ccae {
+.file__0ccae, .button_e6e74f {
     background-color: var(--backgroundColor01);
 }
