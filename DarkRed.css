@@ -3403,11 +3403,11 @@ button.button__67645>.contents__201d5>svg>path[fill*="var(--interactive-normal)"
     display: none;
 }
 
-.scrollerContainer_cdb2b0{
+.scrollerContainer_cdb2b0, .contentWrapper__9c62c {
     background-color: var(--backgroundColor01);
 }
 
-.theme-dark .bannedUser_cdb2b0{
+.theme-dark .bannedUser_cdb2b0, .container_cb32c7 {
     background-color: var(--backgroundColor02)
 }
 
@@ -3421,4 +3421,12 @@ button.button__67645>.contents__201d5>svg>path[fill*="var(--interactive-normal)"
 
 .button_e6e74f {
     background: var(--backgroundColor01);
+}
+
+.button_e131a9 .buttonColor_e131a9 {
+    background: var(--gradientColor01);
+}
+
+.button_e131a9 .buttonColor_e131a9:hover {
+    background: var(--mainColor);
 }
