@@ -259,7 +259,7 @@
     }
 }
 
-#app-mount .newMessagesBar__0f481 {
+#app-mount .newMessagesBar__0f481, .iconBadge__650eb.isCurrentUserConnected__650eb {
     background-color: var(--mainColor)
 }
 
