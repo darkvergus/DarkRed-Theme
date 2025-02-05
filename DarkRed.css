@@ -154,26 +154,26 @@
 }
 
 #app-mount .colorable_f1ceac.primaryDark_f1ceac {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--backgroundColor01) !important;
 }
 
 #app-mount .button__67645.enabled__67645:hover {
-    background-color: var(--gradientColor01) !important
+    background-color:var(--backgroundColor01) !important;
 }
 
 #app-mount .button_f7ecac:hover {
-    background-color: var(--backgroundColor02) !important
+    background-color: var(--backgroundColor02) !important;
 }
 
 #app-mount .modeSelected__2ea32 .link__2ea32,
 #app-mount .modeSelected__2ea32:hover .link__2ea32,
 #app-mount .wrapper__2ea32:hover .link__2ea32 {
-    background-color: var(--backgroundColor01)
+    background-color: var(--backgroundColor01);
 }
 
 #app-mount .link__2ea32 {
     position: relative;
-    overflow: hidden
+    overflow: hidden;
 }
 
 #app-mount .link__2ea32::after {
@@ -190,7 +190,7 @@
     -ms-transform: translateX(-100%);
     -moz-transform: translateX(-100%);
     -o-transform: translateX(-100%);
-    transform: translateX(-100%)
+    transform: translateX(-100%);
 }
 
 #app-mount .modeSelected__2ea32 .link__2ea32::after,
@@ -199,23 +199,23 @@
     -ms-transform: translateX(0);
     -moz-transform: translateX(0);
     -o-transform: translateX(0);
-    transform: translateX(0)
+    transform: translateX(0);
 }
 
 #app-mount .wrapper__260e1 {
-    color: rgba(255, 255, 255, .5)
+    color: rgba(255, 255, 255, .5);
 }
 
 #app-mount .wrapper__260e1 .users__260e1 {
-    background-color: var(--backgroundColor01)
+    background-color: var(--backgroundColor01);
 }
 
 #app-mount .wrapper__260e1 .total__260e1 {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--backgroundColor01) !important;
 }
 
 #app-mount .wrapper__260e1 .total__260e1:after {
-    border-right-color: var(--backgroundColor01) !important
+    border-right-color: var(--backgroundColor01) !important;
 }
 
 #app-mount .unread__2ea32 {
@@ -226,7 +226,7 @@
     transition: box-shadow .2s ease;
     background-color: #ffffff00;
     z-index: 10;
-    position: absolute
+    position: absolute;
 }
 
 #app-mount .unread__2ea32:after {
@@ -240,7 +240,7 @@
     border-radius: 100%;
     z-index: -2;
     animation: var(--unread-animation) 2s infinite;
-    will-change: transform
+    will-change: transform;
 }
 
 #app-mount .unread__2ea32:hover:after {
