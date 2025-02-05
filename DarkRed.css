@@ -158,7 +158,7 @@
 }
 
 #app-mount .button__67645.enabled__67645:hover {
-    background-color: var(--backgroundColor01) !important
+    background-color: var(--mainColor) !important
 }
 
 #app-mount .button_f7ecac:hover {
@@ -2320,7 +2320,7 @@
 }
 
 .barFill_a562c8 {
-    background: var(--gradientColor02)
+    background: var(--gradientColor01)
 }
 
 .lookFilled__3f413.select__3f413 {
@@ -2962,7 +2962,7 @@
 }
 
 .callContainer_cb9592 {
-    background: var(--backgrounColor02);
+    background: var(--backgroundColor02);
 }
 
 .box_ee23ac {
@@ -2999,7 +2999,7 @@
 }
 
 .icon__183c2 {
-    color: var(--gradientColor02);
+    color: var(--gradientColor01);
 }
 
 .base_b88801 {
@@ -3033,7 +3033,6 @@
 .body__6da2d {
     background-color: var(--backgroundColor02);
 }
-
 
 .channelName__628e6 {
     color: var(--mainColor) !important;
@@ -3423,10 +3422,10 @@ button.button__67645>.contents__201d5>svg>path[fill*="var(--interactive-normal)"
     background: var(--backgroundColor01);
 }
 
-.button_e131a9 .buttonColor_e131a9 {
-    background: var(--gradientColor01);
+.theme-dark.custom-theme-background .button_e131a9.buttonColor_e131a9, .theme-dark.custom-theme-background .button_e131a9 .buttonColor_e131a9 {
+    background: var(--backgroundColor01);
 }
 
-.button_e131a9 .buttonColor_e131a9:hover {
+.theme-dark.custom-theme-background .button_e131a9.buttonColor_e131a9:hover, .theme-dark.custom-theme-background .button_e131a9 .buttonColor_e131a9:hover {
     background: var(--mainColor);
 }
