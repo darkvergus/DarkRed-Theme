@@ -3429,3 +3429,39 @@ button.button__67645>.contents__201d5>svg>path[fill*="var(--interactive-normal)"
 .theme-dark.custom-theme-background .button_e131a9.buttonColor_e131a9:hover, .theme-dark.custom-theme-background .button_e131a9 .buttonColor_e131a9:hover {
     background: var(--mainColor);
 }
+
+.pageBody__5d7c9, .scroller__5d7c9{
+    background-color:var(--backgroundColor02) ;
+}
+
+.theme-dark .container__0b563, .theme-dark .header__0b563{
+    background-color:var(--backgroundColor02) !important;
+}
+
+.container__0f2e8, .container__0f2e8:hover {
+    background-color: var(--backgroundColor01);
+}
+
+.authedApp__50a54 {
+    background-color: var(--backgroundColor01);
+}
+
+.button_e6e74f {
+    background-color: var(--backgroundColor01);
+}
+
+.slideContent__9c62c{
+    background-color: var(--backgroundColor02);
+}
+
+.container_cb32c7 {
+    background-color: var(--backgroundColor01);
+}
+
+.inner_a45028 {
+    background-color: var(--backgroundColor01) 
+}
+
+.container__19cf2 {
+    background-color: var(--backgroundColor01);
+}
