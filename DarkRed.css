@@ -787,7 +787,7 @@
 
 #app-mount .clickable_f37cb1 .header_f37cb1:hover,
 #app-mount .selected_f37cb1 .header_f37cb1 {
-    background-color: var(--backgroundColor02) !important
+    background-color: var(--backgroundColor01) !important
 }
 
 #app-mount .bf-toolbar::before {
@@ -3470,6 +3470,6 @@ button.button__67645>.contents__201d5>svg>path[fill*="var(--interactive-normal)"
     background-color: var(--backgroundColor02);
 }
 
-.container_f37cb1, .container_f37cb1:hover {
+.avatarWrapper__37e49:hover {
     background-color: var(--backgroundColor01);
 }
