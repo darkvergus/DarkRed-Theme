@@ -3465,3 +3465,11 @@ button.button__67645>.contents__201d5>svg>path[fill*="var(--interactive-normal)"
 .container__19cf2 {
     background-color: var(--backgroundColor01);
 }
+
+.theme-dark .content__37e49 {
+    background-color: var(--backgroundColor02);
+}
+
+.container_f37cb1, .container_f37cb1:hover {
+    background-color: var(--backgroundColor01);
+}
