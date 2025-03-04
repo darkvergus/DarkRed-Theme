@@ -629,6 +629,7 @@
 #app-mount .clickable__91a9d.container__91a9d:hover .layout__91a9d,
 #app-mount .selected__91a9d .layout__91a9d {
     background-color: var(--backgroundColor01) !important
+    width: 100%;
 }
 
 #app-mount .selected__91a9d .activity__5d473 {
@@ -3480,4 +3481,8 @@ button.button__67645>.contents__201d5>svg>path[fill*="var(--interactive-normal)"
 
 .membersGroup_c8ffbb{
     width: unset;
+}
+
+.childContainer__91a9d {
+    padding: 0
 }
