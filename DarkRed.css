@@ -3473,3 +3473,11 @@ button.button__67645>.contents__201d5>svg>path[fill*="var(--interactive-normal)"
 .avatarWrapper__37e49:hover {
     background-color: var(--backgroundColor01);
 }
+
+.layout__91a9d{
+    width: auto;
+}
+
+.membersGroup_c8ffbb{
+    width: unset;
+}
