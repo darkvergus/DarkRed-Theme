@@ -68,7 +68,8 @@
 #app-mount .videoWrapper__2f4f7,
 #app-mount .wrapper_ef3116,
 #app-mount .wrapper_cb9592 {
-    background: var(--backgroundColor02) !important
+    background: var(--backgroundColor02) !important;
+    scrollbar-width: none;
 }
 
 #app-mount .editor__2a891,
