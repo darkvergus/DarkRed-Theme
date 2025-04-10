@@ -3488,5 +3488,151 @@ button.button__67645>.contents__201d5>svg>path[fill*="var(--interactive-normal)"
     padding: 0
 }
 
-.visual-refresh .chatContent_f75fb0{background: transparent;}
-.visual-refresh .container__7641b{background: transparent;}
+.visual-refresh .chatContent_f75fb0 {
+    background: transparent;
+}
+
+.visual-refresh .container__7641b {
+    background: transparent;
+}
+
+.visual-refresh .channelAttachmentArea_b77158 {
+    background-color: transparent;
+    margin: 0;
+}
+.visual-refresh .upload_aa605f
+{
+    background-color: var(--backgroundColor01);
+}
+
+.button_f7ecac {
+    background-color: var(--backgroundColor01);
+}
+
+.spoilerContainer__54ab5 {
+    background-color: var(--backgroundColor01);
+}
+
+.file__0ccae {
+    background-color: var(--backgroundColor01);
+}
+
+.visual-refresh .tabBody__133bf {
+    background-color: transparent
+}
+
+.visual-refresh .sidebar_c48ade:after {
+    display: none;
+}
+
+.visual-refresh .sidebarList_c48ade {
+    border: none;
+}
+
+.visual-refresh .wrapper_d852db {
+    background-color: transparent
+}
+
+.visual-refresh .activityText__5d473 {
+    color: #fff;
+}
+
+:where(.visual-refresh) .colorDefault_c1e9c4 .label_c1e9c4 {
+    color: #fff;
+}
+
+.visual-refresh .brand_b3f026.item_b3f026, .visual-refresh .themed_b3f026.item_b3f026 {
+    color: #fff;
+}
+
+.visual-refresh .container_f369db {
+    background-color: transparent
+}
+
+.visual-refresh .messageContainer__95796,.visual-refresh .channelHeader__35a7e {
+    background-color: var(--backgroundColor01);
+}
+
+.visual-refresh .messageContainer__95796 {
+    border: 1px solid var(--mainColor);
+}
+
+.visual-refresh .contentWrapper__08434,.visual-refresh .emojiPickerHasTabWrapper_c0e32c .header_c0e32c,.visual-refresh .wrapper__14245 {
+    background-color: var(--backgroundColor01);
+}
+
+.visual-refresh .mainCard_f369db {
+    background-color: var(--backgroundColor01);
+}
+
+.visual-refresh .header_c0e32c {
+    background-color: var(--backgroundColor01);
+}
+
+.visual-refresh .channelTextArea_f75fb0 {
+    background-color: var(--backgroundColor01);
+}
+
+.wrapper_c0e32c, .wrapper_c0e32c.isBurstReactionPicker_c0e32c {
+    background-color: var(--backgroundColor01);
+}
+
+.visual-refresh .container_faa96b:hover {
+    background-color: var(--backgroundColor02);
+    border: 2px solid var(--mainColor);
+}
+
+.overlayBackground-1KgwVi, .input__0f084 {
+    background-color: var(--backgroundColor02);
+}
+
+.visual-refresh .header_fed6d3 {
+    background-color: var(--backgroundColor02);
+}
+
+.visual-refresh .wrapper__4e6ce {
+    background-color: var(--backgroundColor02);
+}
+
+.colorDefault_c1e9c4.focused_c1e9c4 .label_c1e9c4 {
+    color: var(--backgroundColor02);
+}
+
+.visual-refresh .footer__4d95d,.visual-refresh .textContainer__4d95d,.visual-refresh .container__34c2c, .visual-refresh .header__34c2c,.visual-refresh .hljs {
+    background-color: var(--backgroundColor01);
+}
+
+.visual-refresh .wrapper__44df5 {
+    background-color: var(--backgroundColor01);
+}
+
+.visual-refresh .container__9293f,.bar_c38106 {
+    border: none !important;
+}
+
+#app-mount .applicationStore_f07d62, #app-mount .bg__960e4, #app-mount .chat_f75fb0, 
+#app-mount .container__2637a, #app-mount .container__133bf, #app-mount .container-7Unqij, 
+#app-mount .container__9293f.themed__9293f, #app-mount .contentRegion__23e6b, 
+#app-mount .contentRegionScroller__23e6b, #app-mount .editor__2a891, #app-mount .emptyPreview__48b20, 
+#app-mount .header_adb41f, #app-mount .inviteToolbar__133bf, #app-mount .keyboardShortcutsModal_f061f6, 
+#app-mount .layer__960e4, #app-mount .members_c8ffbb, #app-mount .members_c8ffbb>div, #app-mount .modalTitle_f061f6, 
+#app-mount .nowPlayingColumn__133bf, #app-mount .panels_c48ade, #app-mount .privateChannels__35e86, 
+#app-mount .scroller_fb04e1, #app-mount .scroller__244e5, #app-mount .scroller__4a84a,
+#app-mount .scroller_ef3116, #app-mount .scroller__99e7c, #app-mount .scroller__7d20c, #app-mount .sidebar__23e6b, 
+#app-mount .sidebarRegionScroller__23e6b, #app-mount .stageSection-3mAD8V, #app-mount .standardSidebarView__23e6b,
+#app-mount .themeEditor_cf6da1, #app-mount .threadSidebar-1o3BTy, #app-mount .tile__90dc5, #app-mount .titleBar__421ed, 
+#app-mount .videoWrapper__2f4f7, #app-mount .wrapper_ef3116, #app-mount .wrapper_cb9592 {
+    border: none !important;
+}
+
+.visual-refresh .container_c8ffbb {
+    border: none !important;
+}
+
+.visual-refresh .container__01ae2 {
+    background-color: transparent;
+}
+
+.field__1fed1 {
+    background-color: var(--backgroundColor01);
+}
